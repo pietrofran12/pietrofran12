@@ -1,14 +1,12 @@
 # 👋 Olá, me chamo Pietro!
 
-Bem-vindo ao meu perfil, é um imenso lisonjeio recebê-lo(a)! 
+Bem-vindo ao meu perfil, é um imenso lisonjeio recebê-lo(a) 😁! Sou um estudante interessado em tecnologia e negócios, unindo meu conhecimento em Administração e Desenvolvimento de Sistemas com objetivo de me desenvolver ainda mais! Gosto de botar em prática meus aprendizados como criar scripts em Python para ver até onde consigo ir sozinho.
 
 ## 🏛️ Formação & Estudo
 - **Graduação em Administração** | Conclusão prevista: final de 2027.
 - **Tecnólogo em Desenvolvimento de Sistemas** | Em andamento...
-- Além das aulas, ando praticando meus conhecimentos criando meus próprios scripts em Python para ver até onde consigo ir.
-  
-## 📚 O que estou aprendendo no momento
 
+## 📚 O que estou aprendendo no momento
 <div style="display: inline_block"><br>
  <img align="center" alt="Python" height="40" width="40"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
