@@ -1,4 +1,4 @@
-#👋 Olá, me chamo Pietro!
+# 👋 Olá, me chamo Pietro!
 
 Bem-vindo ao meu perfil, é um imenso lisonjeio recebê-lo(a)! 
 
