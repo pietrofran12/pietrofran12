@@ -1,5 +1,11 @@
-## Hi there 👋
+# 👋 Olá, me chamo Pietro!
 
+Bem-vindo ao meu perfil, é um imenso prazer recebê-lo(a)! 
+
+- 🎓 Estudante de Administração e Desenvolvimento de Sistemas
+- 🐍 Aprendendo Python, HTML e CSS
+- 📍 Meu e-mail profissional para contato: pietrofgo12@gmail.com
+- 
 <!--
 **pietrofran12/pietrofran12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
